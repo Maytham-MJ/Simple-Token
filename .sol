@@ -1,4 +1,4 @@
-/** This is a Simpe-Token code that you can use to create your free BSC Token. For more deteales on how to confige please see the reed me file. */
+/** This is a Simple-Token code that you can use to create your free BSC Token. For more deteales on how to confige please see the reed me file. */
 
 pragma solidity ^0.8.2;
 
